@@ -1,0 +1,5 @@
+name: dart_widget_test
+description: Widget test helpers with pump and settle
+version: 1.0.0
+environment:
+  sdk: '>=3.0.0 <4.0.0'
